@@ -1,4 +1,4 @@
-# 📝 Todo Application (MERN Stack)
+# 📝 Todo Application 
 
 A full-stack Todo application built using **Express.js** for the backend and **React.js** for the frontend.  
 This project supports complete **CRUD functionality** (Create, Read, Update, Delete) for managing daily tasks.
